@@ -1,0 +1,11 @@
+D:\Сетевое програмир\23.04.05\Email\Email\obj\Debug\Email.csproj.AssemblyReference.cache
+D:\Сетевое програмир\23.04.05\Email\Email\obj\Debug\Email.csproj.SuggestedBindingRedirects.cache
+D:\Сетевое програмир\23.04.05\Email\Email\obj\Debug\Email.Form1.resources
+D:\Сетевое програмир\23.04.05\Email\Email\obj\Debug\Email.Properties.Resources.resources
+D:\Сетевое програмир\23.04.05\Email\Email\obj\Debug\Email.csproj.GenerateResource.cache
+D:\Сетевое програмир\23.04.05\Email\Email\obj\Debug\Email.csproj.CoreCompileInputs.cache
+D:\Сетевое програмир\23.04.05\Email\Email\bin\Debug\Email.exe.config
+D:\Сетевое програмир\23.04.05\Email\Email\bin\Debug\Email.exe
+D:\Сетевое програмир\23.04.05\Email\Email\bin\Debug\Email.pdb
+D:\Сетевое програмир\23.04.05\Email\Email\obj\Debug\Email.exe
+D:\Сетевое програмир\23.04.05\Email\Email\obj\Debug\Email.pdb
